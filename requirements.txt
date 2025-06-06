@@ -1,0 +1,14 @@
+pillow~=10.2.0
+numpy~=1.26.4
+tqdm
+ftfy
+regex
+scikit-learn
+gdown
+torchcp
+pandas
+openpyxl
+transformers
+git+https://github.com/Mahmoodlab/CONCH.git
+torchcp==0.1.3
+scikit-image==0.25.2
