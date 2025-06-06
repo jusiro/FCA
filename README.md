@@ -47,7 +47,7 @@ We present the basic usage here.
 - `python scp.py --task Gleason,MESSIDOR --k 16 --alpha 0.10 --ncscore lac`
 
 (c) Full conformal adaptation (FCA):
-- `python scpt.py --task Gleason,MESSIDOR --k 16 --alpha 0.10 --ncscore lac`
+- `python fca.py --task Gleason,MESSIDOR --k 16 --alpha 0.10 --ncscore lac`
 
 You will find the results upon training at [`./local_data/results/`](./local_data/results/).
 
