@@ -13,7 +13,7 @@ The official implementation of [*Full Conformal Adaptation of Medical Vision-Lan
 [Ismail Ben Ayed<sup>1</sup>](https://scholar.google.es/citations?user=29vyUccAAAAJ&hl),
 [Jose Dolz<sup>1</sup>](https://scholar.google.es/citations?user=yHQIFFMAAAAJ&hl) <br/>
 <sup>1</sup>ÉTS Montréal ⋅ <sup>2</sup>CentraleSupélec, Université Paris-Saclay <br/>
-[Conference]() | [ArXiv]() |
+| [Conference]() | [ArXiv]() |
 <br/>
 
 
