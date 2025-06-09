@@ -3,7 +3,7 @@
 
 <img src="./local_data/media/overview.png" width = "600" alt="" align=center /> <br/>
 
-The official implementation of [*Full Conformal Adaptation of Medical Vision-Language Models*]().<br/>
+The official implementation of [*Full Conformal Adaptation of Medical Vision-Language Models*](https://arxiv.org/abs/2506.06076).<br/>
 📜 <span style="color:red">*Int. Conference on Information Processing in Medical Imaging (Oral)*</span> \
 [Julio Silva-Rodríguez<sup>1</sup>](https://scholar.google.es/citations?user=1UMYgHMAAAAJ&hl),
 [Leo Fillioux<sup>2</sup>](https://scholar.google.fr/citations?user=c0kBPnoAAAAJ&hl),
