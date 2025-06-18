@@ -18,12 +18,7 @@ class Adapter(torch.nn.Module):
         self.init = "random" if ("RI" in adapter) else "zero_shot"
 
         # Set classifier
-        if "LP++" in adapter:
-            self.adapter = LPpp(self.text_embeddings_avg)
-        elif "TIPAd" in adapter:
-            self.adapter = TIPAd(self.text_embeddings_avg)
-        else:
-            self.adapter = LinearProbeHead(self.text_embeddings_avg, self.logit_scale, init=self.init)
+        self.adapter = LinearProbeHead(self.text_embeddings_avg, self.logit_scale, init=self.init)
 
         # move to device
         self.to(device).float()
